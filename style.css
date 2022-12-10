@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    background: #ccc;
+}
+
+.header {
+    background: #fff;;
+    height: 56px;
+}
+
+.height {
+    height: 56px;
+}
+.micro {
+    background: #ccc;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
